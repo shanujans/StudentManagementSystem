@@ -7,7 +7,7 @@ A comprehensive JavaFX application for managing student records, course enrollme
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Table of Contents
-- [Features](## ✨ Features)
+- [Features](##_✨_Features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
